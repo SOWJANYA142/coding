@@ -1,0 +1,31 @@
+number=int(input("enter an inter number"))
+
+remainder=number%2
+
+if(remainder==0):
+   
+ print(number,"is an even number")
+
+else:
+    
+print(number,"is an odd number")---------
+
+
+
+a=10
+
+b=20
+
+c=30
+
+if(a>b and a>c):
+
+   print(a,"is greatest number")
+
+elif(b>c):
+  
+  print(b,"is greatest number")
+
+else:
+   
+ print(c,"is greastest number")
