@@ -1,0 +1,19 @@
+n=input("enter a number")
+
+print(n[::-1])
+
+
+
+
+
+n=input("enter a number")
+
+print(n[::-1])
+
+if(n[::]==n[::-1]):
+   
+ print("given number is polyndrome")
+
+else:
+   
+ print("not a polyndrome")
